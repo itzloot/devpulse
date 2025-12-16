@@ -1,0 +1,9 @@
+{
+  "name": "devpulse",
+  "version": "1.0.0",
+  "description": "A lightweight developer utility toolkit",
+  "main": "src/index.js",
+  "keywords": ["logger", "dev-tools", "console", "utility"],
+  "author": "itzlootdev",
+  "license": "MIT"
+}
