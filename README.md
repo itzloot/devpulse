@@ -1,10 +1,3 @@
-Got it 👍
-You want the FULL README.md, and yes — GitHub will automatically show a copy button for every fenced code block (```), so just use proper Markdown.
-
-Below is a complete, copy-paste ready README.md.
-Just paste this into README.md in your repo 👇
-
-
 ---
 
 # devpulse 🚀
