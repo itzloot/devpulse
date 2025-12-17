@@ -19,7 +19,7 @@ Designed for clean logs, performance timing, and quick environment insights.
 ## 📦 Installation
 
 ```bash
-npm install devpulse
+npm install devpulse```
 
 
 ---
