@@ -18,7 +18,7 @@ Designed for clean logs, performance timing, and quick environment insights.
 
 ## 📦 Installation
 
-npm install devpulse
+```bash npm install devpulse
 
 
 ---
